@@ -1,5 +1,5 @@
 ## Hi there, I'm Ana Carolina Moura 👋
-- 💡 I’m currently working on personal website
+
 - 🆙 I’m currently learning Full-Stack Developer skills 
 - 🔎 I’m looking to collaborate on Front-end projects
 - 📧 How to reach me: caroltorresact@gmail.com
@@ -17,12 +17,6 @@
 <img align="center" alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+<img align="center" alt="Pyhton" src="https://img.shields.io/badge/Python-4EA94B?style=for-the-badge&logo=python&logoColor=white">  
 </div>
 <br/>
-
-
-
-
-
-
-
