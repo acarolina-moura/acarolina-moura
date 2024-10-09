@@ -1,7 +1,6 @@
 ## Hi there, I'm Ana Carolina Moura 👋
 
-- 🆙 I’m currently learning Full-Stack Developer skills 
-- 🔎 I’m looking to collaborate on Front-end projects
+- 🆙 I’m currently desenvolving FullStack Developer skills 
 - 📧 How to reach me: caroltorresact@gmail.com
 
 ![Ana GitHub stats](https://github-readme-stats.vercel.app/api?username=acarolina-moura&show_icons=true&theme=radical)
