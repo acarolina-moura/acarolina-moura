@@ -54,6 +54,7 @@ I'm a **Junior Software Developer** passionate about building scalable and user-
 <p align="left">
   <img src="https://img.shields.io/badge/UML-02569B?style=for-the-badge&logo=uml&logoColor=white" alt="UML">
   <img src="https://img.shields.io/badge/Design_Patterns-6DB33F?style=for-the-badge&logo=bookstack&logoColor=white" alt="Design Patterns">
+  <img src="https://img.shields.io/badge/Quality_Assurance-ff0000?style=for-the-badge&logo=bookstack&logoColor=white" alt="Quality Assurance">
 </p>
 
 ---
