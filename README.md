@@ -61,10 +61,8 @@ I'm a **Junior Software Developer** passionate about building scalable and user-
 
 ### Featured Projects
 
-#### SheRoams <p>  </p>
+#### SheRoams <p> https://b4f-final-project.vercel.app/  </p>
 #### CoordenaApp <p> https://coordena-app-eta.vercel.app/ </p>
-#### HRSkills
-
 
 ---
 
