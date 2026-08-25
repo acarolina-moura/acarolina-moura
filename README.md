@@ -2,8 +2,8 @@
 
 I'm a **Junior Software Developer** passionate about building scalable and user-friendly applications. Currently, I am enhancing my expertise as a **Salesforce Developer** intern at People to People.
 
-- 🚀 Currently deepening my skills in **Fullstack Development** and **Salesforce Ecosystem**.
-- 🛠️ I enjoy bridging the gap between robust backend logic and intuitive frontend design.
+- Currently deepening my skills in **Fullstack Development** and **Salesforce Ecosystem**.
+- I enjoy bridging the gap between robust backend logic and intuitive frontend design.
 - 📧 Reach me at: **caroltorresact@gmail.com**
 - 🔗 [LinkedIn](https://www.linkedin.com/in/anacarolinat-moura/)
 - 🔗 [Trailhead Salesforce](https://www.salesforce.com/trailblazer/ana-moura)
@@ -66,25 +66,7 @@ I'm a **Junior Software Developer** passionate about building scalable and user-
 
 ---
 
-# 🚀 Projects
-
-##  SheRoams
-
-A web application developed as a collaborative project focused on creating a travel-oriented digital experience.
-
-🌐 **Live Demo:**
-https://b4f-final-project.vercel.app/
-
-### Tech Stack
-
-| Technology       | Purpose                |
-| ---------------- | ---------------------- |
-| **Next.js**      | Main framework         |
-| **MongoDB**      | NoSQL database         |
-| **Vercel**       | Deployment and hosting |
-| **Git / GitHub** | Version control        |
-
----
+#  Projects
 
 ##  CoordenaApp
 
@@ -138,6 +120,24 @@ https://gest-estoque-cease.vercel.app/
 
 ---
 
+##  SheRoams
+
+A web application developed as a collaborative project focused on creating a travel-oriented digital experience.
+
+🌐 **Live Demo:**
+https://b4f-final-project.vercel.app/
+
+### Tech Stack
+
+| Technology       | Purpose                |
+| ---------------- | ---------------------- |
+| **Next.js**      | Main framework         |
+| **MongoDB**      | NoSQL database         |
+| **Vercel**       | Deployment and hosting |
+| **Git / GitHub** | Version control        |
+
+---
+
 # ☁️ Salesforce Journey
 
 My Salesforce journey focuses on developing technical expertise across.
@@ -148,8 +148,4 @@ My Salesforce journey focuses on developing technical expertise across.
 * 📖 **Salesforce Platform Developer I — In Progress**
 * 🤖 **Agentforce Certification — In Progress**
 * 🤝 **Portugal Dreamin' 2026 Volunteer**
-
----
-
-### 📊 My Stats
-![Ana GitHub stats](https://github-readme-stats.vercel.app/api?username=acarolina-moura&show_icons=true&theme=radical)
+  
