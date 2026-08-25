@@ -68,7 +68,7 @@ I'm a **Junior Software Developer** passionate about building scalable and user-
 
 # 🚀 Projects
 
-## 🌎 SheRoams
+##  SheRoams
 
 A web application developed as a collaborative project focused on creating a travel-oriented digital experience.
 
@@ -86,7 +86,7 @@ https://b4f-final-project.vercel.app/
 
 ---
 
-## 📅 CoordenaApp
+##  CoordenaApp
 
 A web application designed to help users organize and coordinate activities through a modern web interface.
 
@@ -107,7 +107,7 @@ https://coordena-app-eta.vercel.app/
 
 ---
 
-## 📦 Stock Manager
+##  Stock Manager
 
 A full-stack **inventory management system** designed to help businesses manage products, categories, stock movements, users, and organizations.
 
@@ -140,7 +140,7 @@ https://gest-estoque-cease.vercel.app/
 
 # ☁️ Salesforce Journey
 
-My Salesforce journey focuses on developing technical expertise across **Salesforce development, automation, CRM, and AI-powered solutions**.
+My Salesforce journey focuses on developing technical expertise across.
 
 * 🏅 **Trailhead Ranger**
 * 🏆 **2 Superbadges**
